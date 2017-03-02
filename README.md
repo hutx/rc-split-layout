@@ -6,7 +6,7 @@ A simple split layout for React and modern browsers.
 
 ## Dependencies
 
-React-splitter-layout depends on React. See [package.json](package.json) for more details.
+rc-split-layout depends on React. See [package.json](package.json) for more details.
 
 ## Installation
 
